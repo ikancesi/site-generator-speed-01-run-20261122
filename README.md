@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/ikancesi/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
 [![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/ikancesi/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
 
-A native (C) drop-in for makefun-site 1.0.0 — a static binary that returns byte-identical output, about 19x faster than the house baseline on the practice set.
+A native (C) drop-in for makefun-site 1.0.0 — an in-process N-API addon that returns byte-identical output, about 22x faster than the house baseline on the practice set.
 
 ## Run it
 
